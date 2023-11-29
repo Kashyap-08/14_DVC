@@ -2,3 +2,4 @@ dvc
 scikit-learn
 pandas
 numpy
+ipykernel
