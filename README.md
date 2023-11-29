@@ -12,5 +12,6 @@
 ## Then hit the command
 ```dvc checkout```
 
-dvc will look for the data that has the hash value present in custom_data.csv.dvc
+
+##### dvc will look for the data that has the hash value present in custom_data.csv.dvc
 
