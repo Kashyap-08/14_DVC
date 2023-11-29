@@ -1,0 +1,5 @@
+outs:
+- md5: 93bb9a9230304fe425303a2e8229d97b
+  size: 96
+  hash: md5
+  path: custom_data.csv
