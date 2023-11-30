@@ -1,0 +1,13 @@
+stages:
+  stage_01:
+    cmd: python stage1.py
+    deps:
+      - stage1.py
+    outs: 
+      - data/demo_file.txt
+
+  stage_02:
+    cmd: python stage2.py
+    deps: 
+      - data/demo_file.txt
+      - stage2.py

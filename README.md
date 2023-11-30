@@ -82,3 +82,13 @@ step6: Push the files
 ```
 dvc push
 ```
+
+
+# Difference between Git, MLFlow, DVC
+|Git|MLFLOW|DVC|
+|---|---|---|
+|Source code Management|Experiment Tracking| Data Versioing|
+|Code Versioning|Log parameter, log Artificat | Pipeline Reproducibility|
+| |Model Registroy| |
+| | model Versioning| 
+
