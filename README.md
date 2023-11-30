@@ -32,6 +32,7 @@ create iam user
 9. store those creds and also the region
 ```
 
+Hit the code in Python
 
 ```
 s3 = boto3.resource(
